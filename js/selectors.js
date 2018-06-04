@@ -14,8 +14,8 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  var divs = $('.pics);
-  return divs;
+  var d = $('.pics);
+  return d;
 }
 
 function firstListItem() {
